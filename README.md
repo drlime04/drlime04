@@ -1,4 +1,4 @@
-# Clément Lebeau
+## Clément Lebeau
 - 16yo hobbyist programmer
 - Fluent in both English and French
 <!--
