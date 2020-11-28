@@ -1,4 +1,6 @@
-### Hi there 👋
+### Clément Lebeau
+# 16yo hobbyist programmer
+# Fluent in both English and French
 
 <!--
 **drlime04/drlime04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
